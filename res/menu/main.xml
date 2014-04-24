@@ -1,0 +1,31 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+     <item android:id="@+id/check_group"
+          android:icon="@android:drawable/ic_menu_search"
+          android:title="@string/check_group"
+          android:showAsAction="ifRoom|withText" />
+    <item android:id="@+id/insecure_connect_scan"
+          android:icon="@android:drawable/ic_menu_search"
+          android:title="@string/insecure_connect"
+          android:showAsAction="ifRoom|withText" />
+    <item android:id="@+id/discoverable"
+          android:icon="@android:drawable/ic_menu_mylocation"
+          android:title="@string/discoverable"
+          android:showAsAction="ifRoom|withText" />
+    
+     <item android:id="@+id/clearcache"
+          android:icon="@android:drawable/ic_menu_mylocation"
+          android:title="@string/clearcache"
+          android:showAsAction="ifRoom|withText" />
+     
+     <item android:id="@+id/local"
+          android:icon="@android:drawable/ic_menu_mylocation"
+          android:title="@string/local"
+          android:showAsAction="ifRoom|withText" />
+     
+     <item android:id="@+id/startplay"
+          android:icon="@android:drawable/ic_menu_mylocation"
+          android:title="@string/startplay"
+          android:showAsAction="ifRoom|withText" />
+
+</menu>

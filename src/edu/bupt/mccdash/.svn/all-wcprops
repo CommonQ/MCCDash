@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/dashclient/!svn/ver/78/branches/zxy/MccDash/src/edu/bupt/mccdash
+END
+OnHttpDownloadCompleteListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/dashclient/!svn/ver/65/branches/zxy/MccDash/src/edu/bupt/mccdash/OnHttpDownloadCompleteListener.java
+END
+MediaPlayerDemo_Video.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/dashclient/!svn/ver/28/branches/zxy/MccDash/src/edu/bupt/mccdash/MediaPlayerDemo_Video.java
+END
+HttpDownloader.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/dashclient/!svn/ver/77/branches/zxy/MccDash/src/edu/bupt/mccdash/HttpDownloader.java
+END
+MainActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/dashclient/!svn/ver/78/branches/zxy/MccDash/src/edu/bupt/mccdash/MainActivity.java
+END
+OnBluetoothRecvCompleteListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/dashclient/!svn/ver/28/branches/zxy/MccDash/src/edu/bupt/mccdash/OnBluetoothRecvCompleteListener.java
+END

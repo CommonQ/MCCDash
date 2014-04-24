@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/dashclient/!svn/ver/76/branches/zxy/MccDash/src/edu/bupt/mccdash/bluetooth
+END
+DeviceListActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/dashclient/!svn/ver/28/branches/zxy/MccDash/src/edu/bupt/mccdash/bluetooth/DeviceListActivity.java
+END
+FileInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/dashclient/!svn/ver/65/branches/zxy/MccDash/src/edu/bupt/mccdash/bluetooth/FileInfo.java
+END
+WirelessChatService.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/dashclient/!svn/ver/76/branches/zxy/MccDash/src/edu/bupt/mccdash/bluetooth/WirelessChatService.java
+END
+BluetoothChatService.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/dashclient/!svn/ver/33/branches/zxy/MccDash/src/edu/bupt/mccdash/bluetooth/BluetoothChatService.java
+END

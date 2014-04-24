@@ -1,0 +1,64 @@
+10
+
+dir
+78
+https://10.105.37.208/svn/dashclient/branches/zxy/MccDash/res
+https://10.105.37.208/svn/dashclient
+
+
+
+2014-04-14T12:43:16.865000Z
+33
+qukaiming
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+d95c8435-86a2-b845-bb57-e83b6beb0309
+
+drawable-hdpi
+dir
+
+drawable-xxhdpi
+dir
+
+menu
+dir
+
+values-v11
+dir
+
+drawable-ldpi
+dir
+
+values-v14
+dir
+
+drawable-mdpi
+dir
+
+drawable-xhdpi
+dir
+
+layout
+dir
+
+values
+dir
+
+values-sw720dp-land
+dir
+
+values-sw600dp
+dir
+
